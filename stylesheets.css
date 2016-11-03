@@ -1,0 +1,129 @@
+h2 {
+    text-shadow: 10px 10px 13px rgba(150, 150, 150, 1);
+}
+
+.flex-container-header {
+    display: flex;
+    height: 200px;
+}
+
+.flex-item-header {
+    color: black;
+    font-size: 40px;
+    padding: 5px;
+    margin: auto;
+    border-bottom-style: groove;
+    border-color: black;
+}
+
+.flex-container-content {
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    height: 500px;
+}
+
+.flex-container-content2 {
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
+
+.flex-container-space {
+    height: 300px;
+    display: flex;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.flex-item-space {
+    color: white;
+    font-size: 40px;
+    padding: 5px;
+    margin: auto;
+}
+
+.flex-container-foot {
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    height: 200px;
+}
+
+.flex-item {
+    font-size: 20px;
+    padding: 5px;
+    text-align: center;
+    width: 100%;
+}
+
+.flex-container-test {
+    height: 500px;
+    display: flex;
+    width: 100%;
+}
+
+.flex-item-test {
+    float: left;
+    width: 35%;
+    background-image: url(coding_love.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 110%;
+}
+
+.flex-item-test2 {
+    margin: auto;
+    font-size: 20px;
+    padding: 5px;
+    width: 65%;
+    text-align: center;
+}
+
+.flex-container-testa {
+    height: 500px;
+    display: flex;
+    width: 100%;
+    border-top-style: groove;
+    border-bottom-style: groove;
+}
+
+.flex-item-testa {
+    width: 35%;
+    background-image: url(Talk%20with%20code%20by%20PCbots.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+}
+
+.flex-item-testa2 {
+    margin: auto;
+    font-size: 20px;
+    padding: 5px;
+    width: 65%;
+    text-align: center;
+}
+
+.flex-container-testb {
+    height: 500px;
+    display: flex;
+    width: 100%;
+}
+
+.flex-item-testb {
+    float: left;
+    width: 35%;
+    background-image: url(Need%20Code%20By%20PCbots.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 110%;
+}
+
+.flex-item-testb2 {
+    margin: auto;
+    font-size: 20px;
+    padding: 5px;
+    width: 65%;
+    text-align: center;
+}
